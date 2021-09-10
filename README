@@ -1,0 +1,3 @@
+The code is present in Homework 4.ipynb file, which will run on a jupyter notebook. Just run the code. 
+The data is also present in the folder.
+The model will be created and saved as best_nn.pkl. A saved model is also present in the folder.
